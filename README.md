@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">I am currently studying at Forsbergs Skola. My journey in game programming began in August 2023. Below, you can view my repositories where you can see my work and progress in game development.</h3>
 
-- 🔭 Working with SDL [Spider Chase](https://github.com/Marinavouk/SDL-SpiderChase)
+- 🔭 Working on a game with SDL [Spider Chase](https://github.com/Marinavouk/SDL-SpiderChase)
 
 - 🌱 I’m currently learning **More about coding in c++ and Unreal Engine**
 
