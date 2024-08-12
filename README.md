@@ -3,7 +3,7 @@
 
 - 🔭 Working on a game with SDL [Spider Chase](https://github.com/Marinavouk/SDL-SpiderChase)
 
-- 🌱 I’m currently learning **More about coding in c++ and Unreal Engine**
+- 🌱 I’m currently learning **More about coding in C++ and Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://voukourmarina.wixsite.com/game-programmer-stud](https://voukourmarina.wixsite.com/game-programmer-stud)
 
