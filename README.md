@@ -3,7 +3,7 @@
 
 - 🔭 Working on a Group Project in Unreal Engine
 
-- 🌱 I’m currently learning **More about coding in C++ and Unreal Engine**
+- 🌱 I’m currently learning **NetWorking and more about Unity Engine in combination**
 
 - 👨‍💻 All of my projects are available at https://sites.google.com/view/marinavoukouresli/home
 
