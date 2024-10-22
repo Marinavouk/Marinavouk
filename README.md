@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">I am currently studying at Forsbergs Skola. My journey in game programming began in August 2023. Below, you can view my repositories where you can see my work and progress in game development.</h3>
 
-- 🔭 Working on a 2D personal project in Unity Engine alongside my studies
+- 🔭 Working on a 2D personal project in SDL alongside my studies
 
-- 🌱 I’m currently learning **NetWorking and more about Unity Engine in combination**
+- 🌱 I’m currently learning ** VR & AR at school testing it in Unity**
 
 - 👨‍💻 All of my projects are available at https://sites.google.com/view/marinavoukouresli/home
 
