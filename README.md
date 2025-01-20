@@ -3,7 +3,7 @@
 
 - 🔭 I am doing my internship at We Know It
 
-- 🌱 I’m currently learning **more about Web Development**
+- 🌱 I’m currently learning **more about intergration and backend**
 
 - 👨‍💻 All of my projects are available at https://sites.google.com/view/marinavoukouresli/home
 
